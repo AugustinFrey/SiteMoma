@@ -45,9 +45,7 @@
                     <h4 class="blog-article-title">
                         <a href="#">Design Trends for 2017 - Main Guidelines</a>
                     </h4>
-                    <div class="tilde" style="margin-left: -8px;">
-                        ˜˜˜˜˜˜˜˜˜˜
-                    </div>
+                    <hr />
                 </div>
                 <!-- blog-article -->
 

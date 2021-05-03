@@ -132,7 +132,7 @@
 							<div class="widget widget-pages">
 
 								<h6 class="widget-title">Contact</h6>
-                                <div class="tilde" style="color:white;    margin-left: -8px;">˜˜˜˜˜</div>
+                                <hr />
 
 								<ul>
 									<li><a href="mailto:contact@innoveres.fr">contact@innoveres.fr</a></li>
@@ -148,7 +148,7 @@
                             <div class="widget widget-newsletter">
 
                                 <h6 class="widget-title">Nous envoyer un email</h6>
-                                <div class="tilde" style="color:white;    margin-left: -8px;">˜˜˜˜˜</div>
+                                <hr />
 
                             <form name="newsletter" method="post" action="{{route('newsletter')}}">
                                     @csrf
@@ -176,7 +176,7 @@
                             <div class="widget widget-social">
 
                                 <h6 class="widget-title">Supprimer les réseaux sociaux</h6>
-                                <div class="tilde" style="color:white;    margin-left: -8px;">˜˜˜˜˜</div>
+                                <hr />
 
                                 <div class="social-media rounded">
 

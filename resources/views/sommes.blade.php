@@ -61,11 +61,11 @@
                         <h5 style="font-weight:bolder;padding-right:40px"> Proposer de solutions managériales sur Ia base de recherches scientifique pour Ies organisations de santé</h5>
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="col-md-6 text-justify">
                         <p>L'ambition de la chaire INNOV'ERE SANTE est de développer une réflexion en profondeur sur les facteurs de réussite permettant de combiner d la fois la performance financiöre, organisationnelle, innovations, gestion des ressources humaineset les valeurs et les missions du secteur de la santé </p>
                     </div>
 
-                     <div class="col-md-6">
+                     <div class="col-md-6 text-justify">
                          <p>Nous portons nos efforts sur la recherche d'une performance durable associant les diverses parties prenantes. En nous appuyant sur la recherche en sciences de gestion, nous proposons d'aider les organisations de santé dans leur pilotage stratégique. </p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
 
 
                             <h3>Présentation <strong>des membres.</strong></h3>
-                            <div class="tilde">˜˜˜˜˜˜˜˜˜</div>
+                            <hr />
                             <p>Les membres de la chaire sont des universitaires disposant d'une expérience professionnelle et d'une connaissance du secteur sanitaire et médico-sociale :</p>
 
                         </div><!-- headline -->

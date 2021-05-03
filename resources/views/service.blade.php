@@ -60,7 +60,7 @@
                                 <div class="service-box-content">
 
                                 <h5 style="margin-bottom: 0px;" class="text-left"><a href="{{route('publications.show',['id' => $item->slug])}}">{{$item->title}}</a></h5>
-                                    <div class="tilde">˜˜˜˜˜˜˜˜˜</div>
+                                    <hr />
 
                                     <p>  {!! str_limit(strip_tags($item->description), $limit = 150, $end = '...') !!} </p>
 

@@ -61,7 +61,7 @@
                                     </a>
                                 </div>
                                 <h3>Bien plus <strong>qu’une vision </strong></h3>
-                                <div class="tilde">˜˜˜˜˜˜˜˜˜</div>
+                                <hr />
 
                             </div><!-- headline -->
 
@@ -121,7 +121,7 @@
                             <div class="service-box-content">
 
                             <h5 style="margin-bottom: 0px;" class="text-left"><a href="{{route('publications.show',['id' => $item->slug])}}">{{$item->title}}</a></h5>
-                                <div class="tilde">˜˜˜˜˜˜˜˜˜</div>
+                                <hr />
 
                                 <p>  {!! str_limit(strip_tags($item->description), $limit = 150, $end = '...') !!} </p>
 
@@ -160,7 +160,7 @@
 
 
                             <h3>Nous <strong>soutenir.</strong></h3>
-                            <div class="tilde" style="color:white;">˜˜˜˜˜˜˜˜˜</div>
+                            <!-- il y avait un tilde ici mais je l'ai supprimé car le hr était laid -->
 
 
                         </div><!-- headline -->
@@ -180,7 +180,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
 
-                    <div class="headline no-margin-bottom">
+                    <div class="headline no-margin-bottom text-justify">
 
 
                         <h5 style="font-weight: 500;letter-spacing: 0.01rem;">Nous portons nos efforts sur la recherche d’une performance durable associant les diverses parties prenantes. En nous appuyant sur la recherche en sciences de gestion, nous proposons d’aider les organisations de santé dans leur pilotage stratégique.
@@ -229,7 +229,7 @@
 
 
                             <h3>Nos <strong>partenaires.</strong></h3>
-                            <div class="tilde">˜˜˜˜˜˜˜˜˜</div>
+                            <hr />
                             <p>Ils nous font confiance</p>
 
                         </div><!-- headline -->

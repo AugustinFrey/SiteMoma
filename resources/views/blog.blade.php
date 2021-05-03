@@ -51,9 +51,7 @@ setlocale (LC_TIME, 'fr_FR.utf8','fra');
                     <h4 class="blog-article-title">
                         <a href="#">{{$article->title}}</a>
                     </h4>
-                    <div class="tilde" style="margin-left: -8px;">
-                        ˜˜˜˜˜˜˜˜˜˜
-                    </div>
+                    <hr />
 
                     <ul class="blog-article-details">
                         <li class="date">

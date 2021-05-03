@@ -113,7 +113,7 @@
             <!-- col -->
             <div class="col-md-4">
                 <h6 style="font-weight: 600;">Contactez nous pour plus d’informations</h6>
-                <div class="tilde" style="margin-left: -8px;">˜˜˜˜˜</div>
+                <hr />
 
                 <p>
                     Etiam nec odio vestibulum est mattis effic iturut magna.
