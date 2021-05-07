@@ -11,14 +11,15 @@
 
                     @if(Storage::disk('public')->exists($item->picture))
                     <li data-transition="fade" data-thumb="{{ URL::asset('storage/'.$item->picture) }}">
+                    <!--{{ URL::asset('storage/'.$item->picture) }}-->
                                         <img src="{{ URL::asset('storage/'.$item->picture) }}" data-bgposition="center center">
 
                                         @elseif($isimage = @getimagesize(config('app.site_url').'storage/'.$item->picture))
                                         <li data-transition="fade" data-thumb="{{config('app.site_url').'storage/'.$item->picture}}">
                                           <img src="{{config('app.site_url').'storage/'.$item->picture}}" data-bgposition="center center">
                                         @else
-                                        <li data-transition="fade" data-thumb="{{asset('assets/images/header accueil.jpg')}}">
-                                        <img src="{{asset('assets/images/header accueil.jpg')}}" alt="" data-bgposition="center center">
+                                        <li data-transition="fade" data-thumb="{{asset('assets/images/Accueil1.jpg')}}">
+                                        <img src="{{asset('assets/images/Accueil1.jpg')}}" alt="" data-bgposition="center center">
                                         @endif
 
 
@@ -100,7 +101,7 @@
             <img class="overlay_image" src="{{asset('assets/images/forme-abstraite.png')}}">
 
             <div class="col-md-12 mb-3">
-                    <div class="tilde vertical">˜˜˜˜˜˜˜˜</div>
+                    <!--  Possible ligne verticale -->
                     <h3 class="f-800" style="padding-left: 65px;">Nos articles</h3>
                 </div>
 

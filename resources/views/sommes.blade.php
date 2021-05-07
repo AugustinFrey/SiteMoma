@@ -33,7 +33,7 @@
     <div id="page-header">
         <div
             class="ken-burns"
-            style="background-image:url('assets/images/header qui sommes nous.jpg'); background-position: center;"
+            style="background-image:url('assets/images/SommesNous1.jpg'); background-position: center;"
         ></div>
 
         <div class="overlay"></div>

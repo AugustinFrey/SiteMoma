@@ -6,7 +6,7 @@
     <div id="page-header">
         <div
             class="ken-burns"
-            style="background-image:url(assets/images/slider_article.jpg); background-position: center;"
+            style="background-image:url(assets/images/Partenaire3.jpg); background-position: center;"
         ></div>
 
         <div class="overlay"></div>

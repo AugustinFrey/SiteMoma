@@ -7981,3 +7981,9 @@ blockquote footer img {
         min-height: 550px;
     }
 }
+
+
+.vl {
+    border-left: 800px solid green;
+    height: 100;
+  }

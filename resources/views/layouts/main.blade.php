@@ -136,8 +136,7 @@
 
 								<ul>
 									<li><a href="mailto:contact@innoveres.fr">contact@innoveres.fr</a></li>
-									<li>03.02.12.42.24</li>
-                                    <li>Address: Rue Vendémiaire, <br class="d-block d-md-none d-lg-block"> 34070 Montpellier</li>
+                                    <li>Addresse: Rue Vendémiaire, <br class="d-block d-md-none d-lg-block"> 34070 Montpellier</li>
 								</ul>
 
 							</div><!-- widget-pages -->
@@ -175,15 +174,14 @@
 
                             <div class="widget widget-social">
 
-                                <h6 class="widget-title">Supprimer les réseaux sociaux</h6>
+                                <h6 class="widget-title">Réseaux sociaux</h6>
                                 <hr />
 
                                 <div class="social-media rounded">
 
-                                    <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-                                    <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                    
                                     <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                                    <a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
+                                
 
                                 </div><!-- social-media -->
 

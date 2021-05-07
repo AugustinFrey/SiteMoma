@@ -39,7 +39,7 @@
             />
 
             <div class="col-md-12 mb-3">
-                <div class="tilde vertical">˜˜˜˜˜˜˜˜</div>
+                <!-- Possible ligne vercticale -->
                 <h4 class="f-800" style="padding-left: 65px;">
                     Retrouvez tous<br />nos articles en ligne
                 </h4>
