@@ -110,17 +110,20 @@
                         <div class="col-md-4 mb-4">
 
                             <div class="card text-white">
-                                <img class="card-img" src="{{config('app.site_url').'storage/'.$item->picture}}" alt="Card image">
+                                <img class="card-img" src="{{asset('assets/images/user/Fichier 24.png')}}" alt="Card image"> <!-- {{config('app.site_url').'storage/'.$item->picture}} -->
                                 <div class="card-img-overlay d-flex flex-column">
 
                                     <div class="mt-auto text-center">
                                         <div class="headline">
-                                            <h3><strong>{{$item->first_name}}</strong> {{$item->last_name}}</h3>
+                                            <h3 ><strong>{{$item->first_name}}</strong> {{$item->last_name}}</h3>
+                                            <a data-toggle="collapse" href="#collapse-{{$item->id}}" role="button"> test </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
+                            <div class="collapse" id="collapse-{{$item->id}}">
+                                <p class="card card-body"> {!! strip_tags($item->description) !!} </p>
+                            </div>
                         </div>
 
                     @endforeach

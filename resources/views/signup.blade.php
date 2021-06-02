@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <i class="decode-icon- wow tada"></i>
-                    <h2>INCRIPSTION</h2>
+                    <h2>INSCRIPTION</h2>
                 </div>
                 <!-- col -->
             </div>

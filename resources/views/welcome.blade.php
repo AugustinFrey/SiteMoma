@@ -17,9 +17,9 @@
                                         @elseif($isimage = @getimagesize(config('app.site_url').'storage/'.$item->picture))
                                         <li data-transition="fade" data-thumb="{{config('app.site_url').'storage/'.$item->picture}}">
                                           <img src="{{config('app.site_url').'storage/'.$item->picture}}" data-bgposition="center center">
-                                        @else
+                                        @else-->
                                         <li data-transition="fade" data-thumb="{{asset('assets/images/Accueil1.jpg')}}">
-                                        <img src="{{asset('assets/images/Accueil1.jpg')}}" alt="" data-bgposition="center center">
+                                        <img src="{{asset('assets/images/Accueil5.jpg')}}" alt="" data-bgposition="center center">
                                         @endif
 
 
@@ -160,7 +160,7 @@
                         <div class="headline text-center" style="margin-bottom: 0px;">
 
 
-                            <h3>Nous <strong>soutenir.</strong></h3>
+                            <h3>Nous <strong>soutenir</strong></h3>
                             <!-- il y avait un tilde ici mais je l'ai supprimé car le hr était laid -->
 
 
@@ -229,7 +229,7 @@
                         <div class="headline text-center">
 
 
-                            <h3>Nos <strong>partenaires.</strong></h3>
+                            <h3>Nos <strong>partenaires</strong></h3>
                             <hr />
                             <p>Ils nous font confiance</p>
 

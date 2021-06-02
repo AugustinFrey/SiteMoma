@@ -14,9 +14,9 @@ setlocale (LC_TIME, 'fr_FR.utf8','fra');
     <div id="page-header">
         <div
             class="ken-burns"
-            style="background-image:url({{
-                asset('assets/images/slider_article.jpg')
-            }});"
+            style="background-image:url('{{
+                asset('assets/images/header articles.jpg')
+            }}'); background-position: center;"
         ></div>
 
         <div class="overlay"></div>
@@ -77,6 +77,13 @@ setlocale (LC_TIME, 'fr_FR.utf8','fra');
                             {!! $article->description !!}
                     </div>
                     <!-- blog-article-content -->
+
+                    <div>
+                            <a href= "{!! $article->link !!}">
+                                <p> Lien vers l'article </p>
+                            </a>
+                    </div>
+                    <!--Lien vers l'article-->
                 </div>
                 <!-- blog-article -->
 
