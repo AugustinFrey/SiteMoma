@@ -6,7 +6,7 @@
     <div id="page-header">
         <div
             class="ken-burns"
-            style="background-image:url(assets/images/slider_article.jpg); background-position: center;"
+            style="background-image:url(assets/images/FullSommesNous13.jpg); background-position: center;"
         ></div>
 
         <div class="overlay"></div>
@@ -53,7 +53,7 @@
                         </fieldset>
                     </form>
 
-                    <a href="/incripstion">Don't have an account?</a> <br class="d-block d-sm-none">
+                    <a href="/inscription">Don't have an account?</a> <br class="d-block d-sm-none">
                     <a href="#">Forgotten password?</a>
 
                 </div><!-- col -->

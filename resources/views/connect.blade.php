@@ -60,7 +60,7 @@
                     <a
                         class="btn btn-default btn-outline waves waves-dark"
                         href="#"
-                        >INCRIPSTION</a
+                        >INSCRIPTION</a
                     >
                 </div>
                 <div class="col-lg-10 col-md-11 ml-auto mr-auto text-center">

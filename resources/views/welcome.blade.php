@@ -61,7 +61,6 @@
                                         <img style="height: 120px;" src="{{asset('assets/images/sqaure_logo.svg')}}" alt="">
                                     </a>
                                 </div>
-                                <h3>Bien plus <strong>qu’une vision </strong></h3>
                                 <hr />
 
                             </div><!-- headline -->
@@ -74,7 +73,7 @@
                     <div class="row">
                         <div class="col-lg-10 col-md-11 ml-auto mr-auto">
 
-                            <p class="text-center">L’ambition de la chaire INNOV’ERE SANTE est de développer une réflexion en profondeur sur les facteurs de réussite permettant de combiner à la fois la performance financière, organisationnelle, innovations, gestion des ressources humaines, les valeurs et les missions du secteur de la santé.</p>
+                            <p class="text-center">L’ambition de la chaire INNOV’ERE SANTE est de développer une réflexion en profondeur sur les facteurs de réussite permettant de combiner à la fois la performance financière, organisationnelle, les innovations, la gestion des ressources humaines, les valeurs et les missions du secteur de la santé.</p>
 
 
 
@@ -184,7 +183,7 @@
                     <div class="headline no-margin-bottom text-justify">
 
 
-                        <h5 style="font-weight: 500;letter-spacing: 0.01rem;">Nous portons nos efforts sur la recherche d’une performance durable associant les diverses parties prenantes. En nous appuyant sur la recherche en sciences de gestion, nous proposons d’aider les organisations de santé dans leur pilotage stratégique.
+                        <h5 style="font-weight: 500;letter-spacing: 0.01rem;">Nos travaux de recherche portent sur la recherche d’une performance durable associant les diverses parties prenantes. En nous appuyant sur la recherche en sciences de gestion, nous proposons d’aider les organisations de santé dans leur pilotage stratégique.
                         </h5>
 
                     </div>

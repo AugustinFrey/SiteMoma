@@ -135,8 +135,8 @@
                                 <hr />
 
 								<ul>
-									<li><a href="mailto:contact@innoveres.fr">contact@innoveres.fr</a></li>
-                                    <li>Addresse: Rue Vendémiaire, <br class="d-block d-md-none d-lg-block"> 34070 Montpellier</li>
+									<li><a href="mailto:contact@innoveres.fr">contact@chaire-innoveres.com</a></li>
+                                    <li>Rue Vendémiaire, <br class="d-block d-md-none d-lg-block"> CS 19519, <br class="d-block d-md-none d-lg-block"> 34960 Montpellier</li>
 								</ul>
 
 							</div><!-- widget-pages -->

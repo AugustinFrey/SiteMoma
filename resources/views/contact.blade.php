@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <i class="decode-icon- wow tada"></i>
-                    <h2>Contact us</h2>
+                    <h2>Nous contacter</h2>
                 </div>
                 <!-- col -->
             </div>
@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h6 style="font-weight: 600;">Get in touch</h6>
+                <h6 style="font-weight: 600;">Nous contacter</h6>
 
                 @if (\Session::get('success'))
                                             <div class="alert alert-success" role="alert">
@@ -55,7 +55,7 @@
                                 required
                             />
                             <span></span>
-                            <label for="name">Name</label>
+                            <label for="name">Nom</label>
                         </p>
 
                         <p>
@@ -81,7 +81,7 @@
                                 required
                             />
                             <span></span>
-                            <label for="subject">Subject</label>
+                            <label for="subject">Sujet</label>
                         </p>
 
                         <p>
@@ -105,7 +105,7 @@
                             name="submit"
                             value=""
                         >
-                            Send message <i class="decode-icon-cursor"></i>
+                            Envoyer message <i class="decode-icon-cursor"></i>
                         </button>
                     </fieldset>
                 </form>
@@ -115,31 +115,22 @@
                 <h6 style="font-weight: 600;">Contactez nous pour plus d’informations</h6>
                 <hr />
 
-                <p>
-                    Etiam nec odio vestibulum est mattis effic iturut magna.
-                    Pellentesque sit amet tellus blandit. Etiam nec odio
-                    vestibul nec odio vestibulum est mattis effic iturut magna.
-                    Etiam nec odio vestibulum est mattis effic iturut magna.
-                </p>
-
                 <br />
 
                 <div class="widget widget-contact ml-lg-5">
                     <ul>
                         <li class="address">
                             <i class="decode-icon-placeholder2"></i>
-                            4124 Barnes Street, Sanford,
+                            Rue Vendémiaire, CS 19519, 
                             <br class="d-block d-md-none d-lg-block" />
-                            FL 32771
-                        </li>
-                        <li class="phone">
-                            <i class="decode-icon-phone-call"></i>
-                            203-808-8613
+                            34960 Montpellier,
+                            <br class="d-block d-md-none d-lg-block" />
+                            Cedex, France
                         </li>
                         <li class="email">
                             <i class="decode-icon-multimedia"></i>
-                            <a href="mailto:office@milothemes.com"
-                                >office@milothemes.com</a
+                            <a href="contact@chaire-innoveres.com"
+                                >contact@chaire-innoveres.com</a
                             >
                         </li>
                     </ul>

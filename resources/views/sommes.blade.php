@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="col-md-6 text-justify">
-                        <p>L'ambition de la chaire INNOV'ERE SANTE est de développer une réflexion en profondeur sur les facteurs de réussite permettant de combiner d la fois la performance financiöre, organisationnelle, innovations, gestion des ressources humaineset les valeurs et les missions du secteur de la santé </p>
+                        <p>L'ambition de la chaire INNOV'ERE SANTE est de développer une réflexion en profondeur sur les facteurs de réussite permettant de combiner à la fois la performance financiaire, organisationnelle, les innovations, la gestion des ressources humaines et les valeurs et missions du secteur de la santé </p>
                     </div>
 
                      <div class="col-md-6 text-justify">
@@ -74,7 +74,7 @@
             </div>
             <!-- col -->
             <div class="col-md-4">
-                <img class="img-responsive" src="{{asset('assets/images/Image chercheurs.jpg')}}">
+                <img class="img-responsive" src="{{asset('assets/images/Chercheurs1.png')}}">
                 <!-- widget-contact -->
             </div>
             <!-- col -->

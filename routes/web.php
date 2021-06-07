@@ -24,7 +24,7 @@ Route::get('/connexion', function () {
     return view('login');
 });
 
-Route::get('/incripstion', function () {
+Route::get('/inscription', function () {
     return view('signup');
 });
 

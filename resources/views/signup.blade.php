@@ -6,7 +6,7 @@
     <div id="page-header">
         <div
             class="ken-burns"
-            style="background-image:url(assets/images/slider_article.jpg); background-position: center;"
+            style="background-image:url(assets/images/FullSommesNous13.jpg); background-position: center;"
         ></div>
 
         <div class="overlay"></div>
@@ -33,23 +33,23 @@
                         <fieldset>
 
                                 <p>
-                                        <input class="col-12" id="email" type="text" placeholder="Full Name">
+                                        <input class="col-12" id="email" type="text" placeholder="Nom et prénom">
                                     </p>
 
                             <p>
-                                <input class="col-12" id="email" type="email" placeholder="E-mail address">
+                                <input class="col-12" id="email" type="email" placeholder="Adresse email">
                             </p>
 
                             <p>
-                                <input class="col-12" id="password" type="password" placeholder="Password">
+                                <input class="col-12" id="password" type="password" placeholder="Mot de passe">
                             </p>
 
                             <p>
-                                    <input class="col-12" id="password" type="password" placeholder="Confirm Password">
+                                    <input class="col-12" id="password" type="password" placeholder="Confirmer le mot de passe">
                                 </p>
 
 
-                            <button type="submit" class="btn btn-default btn-outline waves waves-dark">Signu Up <i class="decode-icon-cursor"></i></button>
+                            <button type="submit" class="btn btn-default btn-outline waves waves-dark">Sign Up <i class="decode-icon-cursor"></i></button>
 
                         </fieldset>
                     </form>
