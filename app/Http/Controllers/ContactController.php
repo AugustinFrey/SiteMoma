@@ -59,7 +59,7 @@ class ContactController extends Controller
         $page->save();
 
         $user        = new User();
-        $user->email = 'contact@innoveres.fr'; // This is the email you want to send to.
+        $user->email = 'contact@chaire-innoveres.com'; // This is the email you want to send to.
         $user->notify(new ContactMail($request->all()));
 
         return redirect()->back()->with('success', "Votre message a été envoyé avec succès. Nous vous contacterons bientôt!");

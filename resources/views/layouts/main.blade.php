@@ -180,7 +180,7 @@
                                 <div class="social-media rounded">
 
                                     
-                                    <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a class="linkedin" href="https://www.linkedin.com/in/chaire-innov-eres-801077214/"><i class="fa fa-linkedin"></i></a>
                                 
 
                                 </div><!-- social-media -->

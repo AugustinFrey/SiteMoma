@@ -74,7 +74,7 @@
             </div>
             <!-- col -->
             <div class="col-md-4">
-                <img class="img-responsive" src="{{asset('assets/images/Chercheurs1.png')}}">
+                <img class="img-responsive" src="{{asset('assets/images/Presentation.jpg')}}">
                 <!-- widget-contact -->
             </div>
             <!-- col -->
@@ -93,7 +93,7 @@
                         <div class="headline text-center">
 
 
-                            <h3>Présentation <strong>des membres.</strong></h3>
+                            <h3>Présentation <strong>des membres</strong></h3>
                             <hr />
                             <p>Les membres de la chaire sont des universitaires disposant d'une expérience professionnelle et d'une connaissance du secteur sanitaire et médico-sociale :</p>
 
@@ -110,13 +110,13 @@
                         <div class="col-md-4 mb-4">
 
                             <div class="card text-white">
-                                <img class="card-img" src="{{asset('assets/images/user/Fichier 24.png')}}" alt="Card image"> <!-- {{config('app.site_url').'storage/'.$item->picture}} -->
+                                <img class="card-img" src="{{config('app.site_url').'storage/'.$item->picture}}" alt="Card image">
                                 <div class="card-img-overlay d-flex flex-column">
 
                                     <div class="mt-auto text-center">
                                         <div class="headline">
                                             <h3 ><strong>{{$item->first_name}}</strong> {{$item->last_name}}</h3>
-                                            <a data-toggle="collapse" href="#collapse-{{$item->id}}" role="button"> test </a>
+                                            <a data-toggle="collapse" href="#collapse-{{$item->id}}" role="button"> En savoir plus </a>
                                         </div>
                                     </div>
                                 </div>

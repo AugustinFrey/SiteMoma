@@ -73,7 +73,7 @@ setlocale (LC_TIME, 'fr_FR.utf8','fra');
                     </ul>
                     <!-- blog-article-details -->
 
-                    <div class="blog-article-content">
+                    <div class="blog-article-content text-justify">
                             {!! $article->description !!}
                     </div>
                     <!-- blog-article-content -->
